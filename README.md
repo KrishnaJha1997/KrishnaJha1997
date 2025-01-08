@@ -1,62 +1,39 @@
 ## Hi there! 👋
 
-I'm **Krishna Jha**, a passionate developer who loves crafting solutions and building engaging applications. Welcome to my GitHub profile!
+I'm **Krishna Jha**, a passionate developer who loves to explore the world of coding and technology. I believe in creating impactful solutions that enhance user experiences and simplify everyday tasks.
 
 ## About Me
 
-I am a software developer with a keen interest in web development and data analysis. Based in [Your Location], I enjoy exploring new technologies and improving my skills continuously. Though I’m currently not affiliated with any company, I am always open to collaboration and new opportunities!
+I am a software developer with a diverse skill set, currently working on various personal and collaborative projects. I enjoy tackling challenges and continuously learning new technologies. While my location is currently unspecified, I'm excited to connect with fellow developers from around the globe!
 
 ## Skills & Technologies
 
-html,js,css,react,nodejs,express,django,mysql,mongodb,java,git,github,docker,aws,azure,flutter
+html,css,java,c,fastapi,nodejs,react,spring,angular,gitlab,postman,jquery,vercel
 
 ## Top Projects
 
-- [Run Walk Analysis](https://github.com/KrishnaJha1997/Run_Walk_analysis)
-  - A repository dedicated to analyzing running and walking patterns.
-  - ⭐ 0 Stars | 🥇 Language: Not specified | 🔄 0 Forks | 🐛 0 Issues
-
-- [Personal Portfolio](https://github.com/KrishnaJha1997/Personal-Portfolio)
-  - A personal portfolio showcasing my projects and skills.
-  - ⭐ 0 Stars | 🥇 Language: HTML | 🔄 0 Forks | 🐛 0 Issues
-
-- [Nutrifit](https://github.com/KrishnaJha1997/Nutrifit)
-  - A nutrition tracking application that helps users manage their diet.
-  - ⭐ 0 Stars | 🥇 Language: JavaScript | 🔄 0 Forks | 🐛 0 Issues
-
-- [Carpooling](https://github.com/KrishnaJha1997/Carpooling)
-  - An application designed to connect people for carpooling.
-  - ⭐ 0 Stars | 🥇 Language: TSQL | 🔄 0 Forks | 🐛 0 Issues
-
-- [Jha Krishnanand](https://github.com/KrishnaJha1997/Jha_Krishnanand_002768931)
-  - A repository related to a project for educational purposes.
-  - ⭐ 0 Stars | 🥇 Language: Not specified | 🔄 0 Forks | 🐛 0 Issues
+- [Personal-Portfolio](https://github.com/KrishnaJha1997/Personal-Portfolio) - A personal portfolio website to showcase my projects and skills. **Stars:** 0, **Language:** HTML
+- [Run_Walk_analysis](https://github.com/KrishnaJha1997/Run_Walk_analysis) - An analysis tool for running and walking patterns. **Stars:** 0, **Language:** Python
+- [Nutrifit](https://github.com/KrishnaJha1997/Nutrifit) - A nutrition tracking application. **Stars:** 0, **Language:** JavaScript
+- [Carpooling](https://github.com/KrishnaJha1997/Carpooling) - A platform for users to find and offer carpooling services. **Stars:** 0, **Language:** TSQL
+- [Jha_Krishnanand_002768931](https://github.com/KrishnaJha1997/Jha_Krishnanand_002768931) - A project showcasing my coding skills and learning journey. **Stars:** 0
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaJha1997&show_icons=true&count_private=true&theme=radical)
-
-- **Public Repositories**: 5
-- **Followers**: 0
-- **Following**: 0
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-6-brightgreen)
+![Followers](https://img.shields.io/badge/Followers-0-lightgrey)
+![Following](https://img.shields.io/badge/Following-0-lightgrey)
 
 ## Recent Activity
 
-Here are my latest activities on GitHub:
-- Recently pushed updates to **Nutrifit**.
-- Opened issues in **Carpooling** regarding feature requests.
-- Updated the README for **Run Walk Analysis**.
-- Contributed to discussions in **Personal Portfolio**.
-- Created a new branch in **Jha Krishnanand**.
+Here are some of my latest contributions on GitHub:
+- Created and updated several repositories focusing on personal projects and learning initiatives.
+- Regularly engaging with community projects and contributing to collaborative efforts.
 
 ## Latest Blog Posts
 
-Currently, I don't have any blog posts to share, but stay tuned for future updates!
+Currently, I do not have any blog posts available, but I plan to share my insights and learning experiences soon!
 
 ## Connect with Me
 
-{}
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
+{Linkedin: https://www.linkedin.com/in/krishnanand-jha-61092b201/}
