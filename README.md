@@ -26,13 +26,10 @@
 
 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnajha1997&show_icons=true&locale=en&layout=compact" alt="krishnajha1997" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnajha1997&show_icons=true&locale=en" alt="krishnajha1997" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnajha1997&" alt="krishnajha1997" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
