@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnajha1997" alt="krishnajha1997" /></a> </p>
 
-- 🔭 I’m currently working on [BonTura](https://github.com/raghnyaa/bontura)
+- 🔭 I’m currently working on [Aaroha - AI based food calories counter](https://github.com/raghnyaa/aaroha)
 
 - 🌱 I’m currently learning **AI/ML, Distributed System Design**
 
